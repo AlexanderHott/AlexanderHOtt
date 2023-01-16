@@ -1,50 +1,74 @@
-# Hello there 🌊
+<!--  _______  ______    _______                         ______             _           -->
+<!-- (_______)/ _____)  (_______)                       / _____)           | |          -->
+<!--  _  _  _( (____        _ _____ _____ ____   ___   ( (____  _   _  ____| |  _  ___  -->
+<!-- | ||_|| |\____ \      | | ___ (____ |    \ /___)   \____ \| | | |/ ___) |_/ )/___) -->
+<!-- | |   | |_____) )     | | ____/ ___ | | | |___ |   _____) ) |_| ( (___|  _ (|___ | -->
+<!-- |_|   |_(______/      |_|_____)_____|_|_|_(___/   (______/|____/ \____)_| \_|___/  -->
 
-I'm Alex Ott and I love to write code. I'm interested in data science and web development.
+## hello there 🌊, i'm alex ott
 
----
+I love picking things apart to figure out how they work and I'm always looking for new problems to solve.
+My interests lie in **machine learning**, **networking**, **cybersecurity**, and **backend development**.
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=AlexanderHOTt&repo=ottbot_v4)](https://github.com/AlexanderHOtt/ottbot_v4)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=AlexanderHOTt&repo=AdvancedComputerVision)](https://github.com/AlexanderHOtt/AdvancedComputerVision)
+## ⚡️ i'm currently
 
-# I'm Working On
-
-- 📚 [Leading the AI Club at my school](https://github.com/Valley-Christian-High-School-AI-Club)
-
-- <img src="assets/Discord-Logo-White.svg" width=15> <a href="https://github.com/AlexanderHOtt/ottbot_v4">Building a Discord Bot</a>
-
-- 🤖 [Writing code for my robotics team](https://github.com/Team3256)
-
-- 🌐 Coding websites for school clubs
-
-- ⚙️ Writing an API wrapper for [Partsbox](https://partsbox.com)
-
-# Stack
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AlexanderHOtt&layout=compact)](https://github.com/AlexanderHOtt)
-
-![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
-![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white)
-![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![SciPy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white)
-
-![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
-
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white)
-![Styled Components](https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white)
+- 🔭 working on [Open Assistant](https://github.com/LAION-AI/Open-Assistant/).
+- 👨‍💻 hacking into the mainframe
+- ☕ drinking tea
 
 <details>
-<summary>BTW</summary>
-I use
+<summary>🕜 Recent Activity</summary>
 
-<img src="https://img.shields.io/badge/Arch%20Linux-1793D1?logo=arch-linux&logoColor=fff&style=for-the-badge">
+<!--START_SECTION:activity-->
+<!--END_SECTION:activity-->
 
 </details>
 
-# Stats
+<!-- 📙 Check out my resume. -->
 
-[![Stats](https://github-readme-stats.vercel.app/api?username=AlexanderHOtt&show_icons=true&theme=onedark)](https://github.com/AlexanderHOtt)
+## 🚀 tech heap (stacks are overrated)
 
-<!-- MS Teams Sucks -->
+<p align="left">
+  <div style="padding-left: 94px;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-plain.svg" height=36/>
+  </div>
+  <div style="padding-left: 56px;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height=36/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height=36/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" height=36/>
+  </div>
+  <div style="padding-left: 40px;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vim/vim-original.svg" height=36/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/solidity/solidity-original.svg" height=36/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original-wordmark.svg" height=36/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height=36/>
+  </div>
+  <div style="padding-left: 24px;">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="36" height="36" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height=36/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" height=36 />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain.svg" height=36 />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"  height=36/>
+          
+  </div>
+  <div>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="typescript" width="36" height="36" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" height=36/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" height=36  />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" height=36 />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg"  height=36/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height=36 />
+  </div>
+
+</p>
+
+<!-- ## ✒️ recent posts -->
+
+---
+
+[![Alex Ott's GitHub stats](https://github-readme-stats-ten-gilt.vercel.app/api?username=AlexanderHOtt)][profile]
+
+![visitors][visitors_badge]
+
+[profile]: https://github.com/AlexanderHOtt
+[visitors_badge]: https://visitor-badge.glitch.me/badge?page_id=AlexanderHOtt.AlexanderHOtt
