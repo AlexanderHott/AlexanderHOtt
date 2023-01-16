@@ -22,6 +22,11 @@ My interests lie in **machine learning**, **networking**, **cybersecurity**, and
 <summary>🕜 Recent Activity</summary>
 
 <!--START_SECTION:activity-->
+1. 🗣 Commented on [#433](https://github.com/LAION-AI/Open-Assistant/issues/433) in [LAION-AI/Open-Assistant](https://github.com/LAION-AI/Open-Assistant)
+2. 🗣 Commented on [#399](https://github.com/LAION-AI/Open-Assistant/issues/399) in [LAION-AI/Open-Assistant](https://github.com/LAION-AI/Open-Assistant)
+3. 🗣 Commented on [#399](https://github.com/LAION-AI/Open-Assistant/issues/399) in [LAION-AI/Open-Assistant](https://github.com/LAION-AI/Open-Assistant)
+4. 💪 Opened PR [#399](https://github.com/LAION-AI/Open-Assistant/pull/399) in [LAION-AI/Open-Assistant](https://github.com/LAION-AI/Open-Assistant)
+5. 🗣 Commented on [#231](https://github.com/LAION-AI/Open-Assistant/issues/231) in [LAION-AI/Open-Assistant](https://github.com/LAION-AI/Open-Assistant)
 <!--END_SECTION:activity-->
 
 </details>
