@@ -22,8 +22,8 @@ My interests lie in **machine learning**, **networking**, **cybersecurity**, and
 <summary>🕜 Recent Activity</summary>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#811](https://github.com/tamagui/tamagui/issues/811) in [tamagui/tamagui](https://github.com/tamagui/tamagui)
-2. 🗣 Commented on [#1056](https://github.com/LAION-AI/Open-Assistant/issues/1056) in [LAION-AI/Open-Assistant](https://github.com/LAION-AI/Open-Assistant)
+1. 💪 Opened PR [#1](https://github.com/silverleaf321/Maze/pull/1) in [silverleaf321/Maze](https://github.com/silverleaf321/Maze)
+2. 🗣 Commented on [#811](https://github.com/tamagui/tamagui/issues/811) in [tamagui/tamagui](https://github.com/tamagui/tamagui)
 3. 💪 Opened PR [#1056](https://github.com/LAION-AI/Open-Assistant/pull/1056) in [LAION-AI/Open-Assistant](https://github.com/LAION-AI/Open-Assistant)
 4. 🗣 Commented on [#785](https://github.com/LAION-AI/Open-Assistant/issues/785) in [LAION-AI/Open-Assistant](https://github.com/LAION-AI/Open-Assistant)
 5. 🗣 Commented on [#785](https://github.com/LAION-AI/Open-Assistant/issues/785) in [LAION-AI/Open-Assistant](https://github.com/LAION-AI/Open-Assistant)
