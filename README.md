@@ -22,11 +22,11 @@ My interests lie in **machine learning**, **networking**, **cybersecurity**, and
 <summary>🕜 Recent Activity</summary>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#5](https://github.com/AlexanderHOtt/emoji-twitter/pull/5) in [AlexanderHOtt/emoji-twitter](https://github.com/AlexanderHOtt/emoji-twitter)
-2. 💪 Opened PR [#5](https://github.com/AlexanderHOtt/emoji-twitter/pull/5) in [AlexanderHOtt/emoji-twitter](https://github.com/AlexanderHOtt/emoji-twitter)
-3. 🎉 Merged PR [#4](https://github.com/AlexanderHOtt/emoji-twitter/pull/4) in [AlexanderHOtt/emoji-twitter](https://github.com/AlexanderHOtt/emoji-twitter)
-4. 💪 Opened PR [#4](https://github.com/AlexanderHOtt/emoji-twitter/pull/4) in [AlexanderHOtt/emoji-twitter](https://github.com/AlexanderHOtt/emoji-twitter)
-5. 🗣 Commented on [#811](https://github.com/tamagui/tamagui/issues/811) in [tamagui/tamagui](https://github.com/tamagui/tamagui)
+1. 🔒 Closed issue [#9](https://github.com/AlexanderHOtt/emoji-twitter/issues/9) in [AlexanderHOtt/emoji-twitter](https://github.com/AlexanderHOtt/emoji-twitter)
+2. 🗣 Commented on [#9](https://github.com/AlexanderHOtt/emoji-twitter/issues/9) in [AlexanderHOtt/emoji-twitter](https://github.com/AlexanderHOtt/emoji-twitter)
+3. 🗣 Commented on [#12](https://github.com/AlexanderHOtt/emoji-twitter/issues/12) in [AlexanderHOtt/emoji-twitter](https://github.com/AlexanderHOtt/emoji-twitter)
+4. ❗ Opened issue [#12](https://github.com/AlexanderHOtt/emoji-twitter/issues/12) in [AlexanderHOtt/emoji-twitter](https://github.com/AlexanderHOtt/emoji-twitter)
+5. 🗣 Commented on [#11](https://github.com/AlexanderHOtt/emoji-twitter/issues/11) in [AlexanderHOtt/emoji-twitter](https://github.com/AlexanderHOtt/emoji-twitter)
 <!--END_SECTION:activity-->
 
 </details>
