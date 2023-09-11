@@ -23,11 +23,11 @@ My interests lie in **machine learning**, **networking**, **cybersecurity**, and
 <summary>🕜 Recent Activity</summary>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#73](https://github.com/AlexanderHOtt/emoji-twitter/pull/73) in [AlexanderHOtt/emoji-twitter](https://github.com/AlexanderHOtt/emoji-twitter)
-2. 🎉 Merged PR [#75](https://github.com/AlexanderHOtt/emoji-twitter/pull/75) in [AlexanderHOtt/emoji-twitter](https://github.com/AlexanderHOtt/emoji-twitter)
-3. 🎉 Merged PR [#78](https://github.com/AlexanderHOtt/emoji-twitter/pull/78) in [AlexanderHOtt/emoji-twitter](https://github.com/AlexanderHOtt/emoji-twitter)
-4. 🎉 Merged PR [#80](https://github.com/AlexanderHOtt/emoji-twitter/pull/80) in [AlexanderHOtt/emoji-twitter](https://github.com/AlexanderHOtt/emoji-twitter)
-5. 🎉 Merged PR [#81](https://github.com/AlexanderHOtt/emoji-twitter/pull/81) in [AlexanderHOtt/emoji-twitter](https://github.com/AlexanderHOtt/emoji-twitter)
+1. 🎉 Merged PR [#2](https://github.com/Exp-Intro-to-GitHub-Flow-Cohort-1/series-intro-to-github-flow-AlexanderHOtt/pull/2) in [Exp-Intro-to-GitHub-Flow-Cohort-1/series-intro-to-github-flow-AlexanderHOtt](https://github.com/Exp-Intro-to-GitHub-Flow-Cohort-1/series-intro-to-github-flow-AlexanderHOtt)
+2. 💪 Opened PR [#2](https://github.com/Exp-Intro-to-GitHub-Flow-Cohort-1/series-intro-to-github-flow-AlexanderHOtt/pull/2) in [Exp-Intro-to-GitHub-Flow-Cohort-1/series-intro-to-github-flow-AlexanderHOtt](https://github.com/Exp-Intro-to-GitHub-Flow-Cohort-1/series-intro-to-github-flow-AlexanderHOtt)
+3. 🎉 Merged PR [#73](https://github.com/AlexanderHOtt/emoji-twitter/pull/73) in [AlexanderHOtt/emoji-twitter](https://github.com/AlexanderHOtt/emoji-twitter)
+4. 🎉 Merged PR [#75](https://github.com/AlexanderHOtt/emoji-twitter/pull/75) in [AlexanderHOtt/emoji-twitter](https://github.com/AlexanderHOtt/emoji-twitter)
+5. 🎉 Merged PR [#78](https://github.com/AlexanderHOtt/emoji-twitter/pull/78) in [AlexanderHOtt/emoji-twitter](https://github.com/AlexanderHOtt/emoji-twitter)
 <!--END_SECTION:activity-->
 
 </details>
