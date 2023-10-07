@@ -23,11 +23,11 @@ My interests lie in **machine learning**, **networking**, **cybersecurity**, and
 <summary>🕜 Recent Activity</summary>
 
 <!--START_SECTION:activity-->
-1. ❌ Closed PR [#84](https://github.com/AlexanderHOtt/emoji-twitter/pull/84) in [AlexanderHOtt/emoji-twitter](https://github.com/AlexanderHOtt/emoji-twitter)
-2. 🎉 Merged PR [#95](https://github.com/AlexanderHOtt/emoji-twitter/pull/95) in [AlexanderHOtt/emoji-twitter](https://github.com/AlexanderHOtt/emoji-twitter)
-3. 🎉 Merged PR [#96](https://github.com/AlexanderHOtt/emoji-twitter/pull/96) in [AlexanderHOtt/emoji-twitter](https://github.com/AlexanderHOtt/emoji-twitter)
-4. 🎉 Merged PR [#83](https://github.com/AlexanderHOtt/emoji-twitter/pull/83) in [AlexanderHOtt/emoji-twitter](https://github.com/AlexanderHOtt/emoji-twitter)
-5. 🎉 Merged PR [#2](https://github.com/Exp-Intro-to-GitHub-Flow-Cohort-1/series-intro-to-github-flow-AlexanderHOtt/pull/2) in [Exp-Intro-to-GitHub-Flow-Cohort-1/series-intro-to-github-flow-AlexanderHOtt](https://github.com/Exp-Intro-to-GitHub-Flow-Cohort-1/series-intro-to-github-flow-AlexanderHOtt)
+1. 🎉 Merged PR [#102](https://github.com/AlexanderHOtt/emoji-twitter/pull/102) in [AlexanderHOtt/emoji-twitter](https://github.com/AlexanderHOtt/emoji-twitter)
+2. 🎉 Merged PR [#104](https://github.com/AlexanderHOtt/emoji-twitter/pull/104) in [AlexanderHOtt/emoji-twitter](https://github.com/AlexanderHOtt/emoji-twitter)
+3. 🎉 Merged PR [#106](https://github.com/AlexanderHOtt/emoji-twitter/pull/106) in [AlexanderHOtt/emoji-twitter](https://github.com/AlexanderHOtt/emoji-twitter)
+4. 🎉 Merged PR [#101](https://github.com/AlexanderHOtt/emoji-twitter/pull/101) in [AlexanderHOtt/emoji-twitter](https://github.com/AlexanderHOtt/emoji-twitter)
+5. 🎉 Merged PR [#105](https://github.com/AlexanderHOtt/emoji-twitter/pull/105) in [AlexanderHOtt/emoji-twitter](https://github.com/AlexanderHOtt/emoji-twitter)
 <!--END_SECTION:activity-->
 
 </details>
