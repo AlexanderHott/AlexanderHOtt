@@ -12,7 +12,7 @@ My interests lie in **machine learning**, **networking**, **cybersecurity**, and
 
 ## ⚡️ i'm currently
 
-- 🔭 working on [Open Assistant](https://github.com/LAION-AI/Open-Assistant/).
+- 🖊️ Leading the Cyber Security club at my university
 - 👨‍💻 hacking into the mainframe
 - ☕ drinking tea
 
