@@ -22,11 +22,11 @@ My interests lie in **machine learning**, **networking**, **cybersecurity**, and
 <summary>🕜 Recent Activity</summary>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#2601](https://github.com/GrapheneOS/os-issue-tracker/issues/2601#issuecomment-2024193838) in [GrapheneOS/os-issue-tracker](https://github.com/GrapheneOS/os-issue-tracker)
-2. ❗ Opened issue [#1](https://github.com/AlexanderHott/dronestats/issues/1) in [AlexanderHott/dronestats](https://github.com/AlexanderHott/dronestats)
-3. 🎉 Merged PR [#176](https://github.com/AlexanderHott/emoji-twitter/pull/176) in [AlexanderHott/emoji-twitter](https://github.com/AlexanderHott/emoji-twitter)
-4. 🗣 Commented on [#793](https://github.com/tamagui/tamagui/issues/793#issuecomment-1970301619) in [tamagui/tamagui](https://github.com/tamagui/tamagui)
-5. 🗣 Commented on [#106](https://github.com/tjhickey724/SpecsGradingApp/pull/106#issuecomment-1883657690) in [tjhickey724/SpecsGradingApp](https://github.com/tjhickey724/SpecsGradingApp)
+1. 🗣 Commented on [#2601](https://github.com/GrapheneOS/os-issue-tracker/issues/2601#issuecomment-2024218583) in [GrapheneOS/os-issue-tracker](https://github.com/GrapheneOS/os-issue-tracker)
+2. 🗣 Commented on [#2601](https://github.com/GrapheneOS/os-issue-tracker/issues/2601#issuecomment-2024193838) in [GrapheneOS/os-issue-tracker](https://github.com/GrapheneOS/os-issue-tracker)
+3. ❗ Opened issue [#1](https://github.com/AlexanderHott/dronestats/issues/1) in [AlexanderHott/dronestats](https://github.com/AlexanderHott/dronestats)
+4. 🎉 Merged PR [#176](https://github.com/AlexanderHott/emoji-twitter/pull/176) in [AlexanderHott/emoji-twitter](https://github.com/AlexanderHott/emoji-twitter)
+5. 🗣 Commented on [#793](https://github.com/tamagui/tamagui/issues/793#issuecomment-1970301619) in [tamagui/tamagui](https://github.com/tamagui/tamagui)
 <!--END_SECTION:activity-->
 
 </details>
