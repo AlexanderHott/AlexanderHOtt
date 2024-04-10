@@ -22,11 +22,11 @@ My interests lie in **machine learning**, **networking**, **cybersecurity**, and
 <summary>🕜 Recent Activity</summary>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#12731](https://github.com/nextcloud/android/issues/12731#issuecomment-2029923147) in [nextcloud/android](https://github.com/nextcloud/android)
-2. 🗣 Commented on [#2601](https://github.com/GrapheneOS/os-issue-tracker/issues/2601#issuecomment-2024218583) in [GrapheneOS/os-issue-tracker](https://github.com/GrapheneOS/os-issue-tracker)
-3. 🗣 Commented on [#2601](https://github.com/GrapheneOS/os-issue-tracker/issues/2601#issuecomment-2024193838) in [GrapheneOS/os-issue-tracker](https://github.com/GrapheneOS/os-issue-tracker)
-4. ❗ Opened issue [#1](https://github.com/AlexanderHott/dronestats/issues/1) in [AlexanderHott/dronestats](https://github.com/AlexanderHott/dronestats)
-5. 🎉 Merged PR [#176](https://github.com/AlexanderHott/emoji-twitter/pull/176) in [AlexanderHott/emoji-twitter](https://github.com/AlexanderHott/emoji-twitter)
+1. 🎉 Merged PR [#10](https://github.com/AlexanderHott/idle-cat-cafe/pull/10) in [AlexanderHott/idle-cat-cafe](https://github.com/AlexanderHott/idle-cat-cafe)
+2. 💪 Opened PR [#10](https://github.com/AlexanderHott/idle-cat-cafe/pull/10) in [AlexanderHott/idle-cat-cafe](https://github.com/AlexanderHott/idle-cat-cafe)
+3. 🎉 Merged PR [#9](https://github.com/AlexanderHott/idle-cat-cafe/pull/9) in [AlexanderHott/idle-cat-cafe](https://github.com/AlexanderHott/idle-cat-cafe)
+4. 💪 Opened PR [#9](https://github.com/AlexanderHott/idle-cat-cafe/pull/9) in [AlexanderHott/idle-cat-cafe](https://github.com/AlexanderHott/idle-cat-cafe)
+5. 🗣 Commented on [#12731](https://github.com/nextcloud/android/issues/12731#issuecomment-2029923147) in [nextcloud/android](https://github.com/nextcloud/android)
 <!--END_SECTION:activity-->
 
 </details>
