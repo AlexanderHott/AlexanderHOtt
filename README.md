@@ -22,11 +22,11 @@ My interests lie in **machine learning**, **networking**, **cybersecurity**, and
 <summary>🕜 Recent Activity</summary>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#181](https://github.com/expressive-code/expressive-code/issues/181#issuecomment-2053730417) in [expressive-code/expressive-code](https://github.com/expressive-code/expressive-code)
-2. 🗣 Commented on [#181](https://github.com/expressive-code/expressive-code/issues/181#issuecomment-2050626427) in [expressive-code/expressive-code](https://github.com/expressive-code/expressive-code)
-3. 🗣 Commented on [#181](https://github.com/expressive-code/expressive-code/issues/181#issuecomment-2050567717) in [expressive-code/expressive-code](https://github.com/expressive-code/expressive-code)
-4. 🗣 Commented on [#1276](https://github.com/tursodatabase/libsql/issues/1276#issuecomment-2050092188) in [tursodatabase/libsql](https://github.com/tursodatabase/libsql)
-5. 🎉 Merged PR [#10](https://github.com/AlexanderHott/idle-cat-cafe/pull/10) in [AlexanderHott/idle-cat-cafe](https://github.com/AlexanderHott/idle-cat-cafe)
+1. 🗣 Commented on [#181](https://github.com/expressive-code/expressive-code/issues/181#issuecomment-2060103880) in [expressive-code/expressive-code](https://github.com/expressive-code/expressive-code)
+2. 🗣 Commented on [#64587](https://github.com/vercel/next.js/issues/64587#issuecomment-2060087328) in [vercel/next.js](https://github.com/vercel/next.js)
+3. 🔒 Closed issue [#64587](https://github.com/vercel/next.js/issues/64587) in [vercel/next.js](https://github.com/vercel/next.js)
+4. 🗣 Commented on [#64587](https://github.com/vercel/next.js/issues/64587#issuecomment-2060021060) in [vercel/next.js](https://github.com/vercel/next.js)
+5. ❗ Opened issue [#64587](https://github.com/vercel/next.js/issues/64587) in [vercel/next.js](https://github.com/vercel/next.js)
 <!--END_SECTION:activity-->
 
 </details>
