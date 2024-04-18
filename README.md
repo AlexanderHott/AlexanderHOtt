@@ -22,11 +22,11 @@ My interests lie in **machine learning**, **networking**, **cybersecurity**, and
 <summary>🕜 Recent Activity</summary>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#181](https://github.com/expressive-code/expressive-code/issues/181#issuecomment-2060103880) in [expressive-code/expressive-code](https://github.com/expressive-code/expressive-code)
-2. 🗣 Commented on [#64587](https://github.com/vercel/next.js/issues/64587#issuecomment-2060087328) in [vercel/next.js](https://github.com/vercel/next.js)
-3. 🔒 Closed issue [#64587](https://github.com/vercel/next.js/issues/64587) in [vercel/next.js](https://github.com/vercel/next.js)
-4. 🗣 Commented on [#64587](https://github.com/vercel/next.js/issues/64587#issuecomment-2060021060) in [vercel/next.js](https://github.com/vercel/next.js)
-5. ❗ Opened issue [#64587](https://github.com/vercel/next.js/issues/64587) in [vercel/next.js](https://github.com/vercel/next.js)
+1. 🗣 Commented on [#200](https://github.com/expressive-code/expressive-code/issues/200#issuecomment-2061909353) in [expressive-code/expressive-code](https://github.com/expressive-code/expressive-code)
+2. 🔒 Closed issue [#200](https://github.com/expressive-code/expressive-code/issues/200) in [expressive-code/expressive-code](https://github.com/expressive-code/expressive-code)
+3. ❗ Opened issue [#200](https://github.com/expressive-code/expressive-code/issues/200) in [expressive-code/expressive-code](https://github.com/expressive-code/expressive-code)
+4. 🗣 Commented on [#181](https://github.com/expressive-code/expressive-code/issues/181#issuecomment-2061816824) in [expressive-code/expressive-code](https://github.com/expressive-code/expressive-code)
+5. 🗣 Commented on [#181](https://github.com/expressive-code/expressive-code/issues/181#issuecomment-2061791019) in [expressive-code/expressive-code](https://github.com/expressive-code/expressive-code)
 <!--END_SECTION:activity-->
 
 </details>
