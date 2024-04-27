@@ -22,11 +22,11 @@ My interests lie in **machine learning**, **networking**, **cybersecurity**, and
 <summary>🕜 Recent Activity</summary>
 
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#908](https://github.com/modrinth/labrinth/issues/908) in [modrinth/labrinth](https://github.com/modrinth/labrinth)
-2. 🗣 Commented on [#200](https://github.com/expressive-code/expressive-code/issues/200#issuecomment-2061909353) in [expressive-code/expressive-code](https://github.com/expressive-code/expressive-code)
-3. 🔒 Closed issue [#200](https://github.com/expressive-code/expressive-code/issues/200) in [expressive-code/expressive-code](https://github.com/expressive-code/expressive-code)
-4. ❗ Opened issue [#200](https://github.com/expressive-code/expressive-code/issues/200) in [expressive-code/expressive-code](https://github.com/expressive-code/expressive-code)
-5. 🗣 Commented on [#181](https://github.com/expressive-code/expressive-code/issues/181#issuecomment-2061816824) in [expressive-code/expressive-code](https://github.com/expressive-code/expressive-code)
+1. 🗣 Commented on [#524](https://github.com/maruohon/litematica/issues/524#issuecomment-2080217826) in [maruohon/litematica](https://github.com/maruohon/litematica)
+2. ❗ Opened issue [#908](https://github.com/modrinth/labrinth/issues/908) in [modrinth/labrinth](https://github.com/modrinth/labrinth)
+3. 🗣 Commented on [#200](https://github.com/expressive-code/expressive-code/issues/200#issuecomment-2061909353) in [expressive-code/expressive-code](https://github.com/expressive-code/expressive-code)
+4. 🔒 Closed issue [#200](https://github.com/expressive-code/expressive-code/issues/200) in [expressive-code/expressive-code](https://github.com/expressive-code/expressive-code)
+5. ❗ Opened issue [#200](https://github.com/expressive-code/expressive-code/issues/200) in [expressive-code/expressive-code](https://github.com/expressive-code/expressive-code)
 <!--END_SECTION:activity-->
 
 </details>
