@@ -22,11 +22,11 @@ My interests lie in **machine learning**, **networking**, **cybersecurity**, and
 <summary>🕜 Recent Activity</summary>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#3621](https://github.com/shadcn-ui/ui/issues/3621#issuecomment-2081904667) in [shadcn-ui/ui](https://github.com/shadcn-ui/ui)
-2. ❗ Opened issue [#3621](https://github.com/shadcn-ui/ui/issues/3621) in [shadcn-ui/ui](https://github.com/shadcn-ui/ui)
-3. 🗣 Commented on [#524](https://github.com/maruohon/litematica/issues/524#issuecomment-2080217826) in [maruohon/litematica](https://github.com/maruohon/litematica)
-4. ❗ Opened issue [#908](https://github.com/modrinth/labrinth/issues/908) in [modrinth/labrinth](https://github.com/modrinth/labrinth)
-5. 🗣 Commented on [#200](https://github.com/expressive-code/expressive-code/issues/200#issuecomment-2061909353) in [expressive-code/expressive-code](https://github.com/expressive-code/expressive-code)
+1. 🗣 Commented on [#8759](https://github.com/python/typeshed/issues/8759#issuecomment-2103148442) in [python/typeshed](https://github.com/python/typeshed)
+2. 🗣 Commented on [#3621](https://github.com/shadcn-ui/ui/issues/3621#issuecomment-2081904667) in [shadcn-ui/ui](https://github.com/shadcn-ui/ui)
+3. ❗ Opened issue [#3621](https://github.com/shadcn-ui/ui/issues/3621) in [shadcn-ui/ui](https://github.com/shadcn-ui/ui)
+4. 🗣 Commented on [#524](https://github.com/maruohon/litematica/issues/524#issuecomment-2080217826) in [maruohon/litematica](https://github.com/maruohon/litematica)
+5. ❗ Opened issue [#908](https://github.com/modrinth/labrinth/issues/908) in [modrinth/labrinth](https://github.com/modrinth/labrinth)
 <!--END_SECTION:activity-->
 
 </details>
