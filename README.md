@@ -22,11 +22,11 @@ My interests lie in **machine learning**, **networking**, **cybersecurity**, and
 <summary>🕜 Recent Activity</summary>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1221](https://github.com/Shopify/flash-list/issues/1221#issuecomment-2197832878) in [Shopify/flash-list](https://github.com/Shopify/flash-list)
-2. 🗣 Commented on [#29856](https://github.com/expo/expo/issues/29856#issuecomment-2197787917) in [expo/expo](https://github.com/expo/expo)
-3. 🔒 Closed issue [#29856](https://github.com/expo/expo/issues/29856) in [expo/expo](https://github.com/expo/expo)
-4. 🗣 Commented on [#29856](https://github.com/expo/expo/issues/29856#issuecomment-2181652225) in [expo/expo](https://github.com/expo/expo)
-5. ❗ Opened issue [#29856](https://github.com/expo/expo/issues/29856) in [expo/expo](https://github.com/expo/expo)
+1. 💪 Opened PR [#1](https://github.com/SSD-Brandeis/LSMMemoryProfiling/pull/1) in [SSD-Brandeis/LSMMemoryProfiling](https://github.com/SSD-Brandeis/LSMMemoryProfiling)
+2. 🗣 Commented on [#1221](https://github.com/Shopify/flash-list/issues/1221#issuecomment-2197832878) in [Shopify/flash-list](https://github.com/Shopify/flash-list)
+3. 🗣 Commented on [#29856](https://github.com/expo/expo/issues/29856#issuecomment-2197787917) in [expo/expo](https://github.com/expo/expo)
+4. 🔒 Closed issue [#29856](https://github.com/expo/expo/issues/29856) in [expo/expo](https://github.com/expo/expo)
+5. 🗣 Commented on [#29856](https://github.com/expo/expo/issues/29856#issuecomment-2181652225) in [expo/expo](https://github.com/expo/expo)
 <!--END_SECTION:activity-->
 
 </details>
