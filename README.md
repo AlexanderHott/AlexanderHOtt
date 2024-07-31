@@ -22,11 +22,11 @@ My interests lie in **machine learning**, **networking**, **cybersecurity**, and
 <summary>🕜 Recent Activity</summary>
 
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#30672](https://github.com/expo/expo/issues/30672) in [expo/expo](https://github.com/expo/expo)
-2. 🗣 Commented on [#98](https://github.com/callstack/react-native-slider/issues/98#issuecomment-2235195062) in [callstack/react-native-slider](https://github.com/callstack/react-native-slider)
-3. 💪 Opened PR [#1](https://github.com/SSD-Brandeis/LSMMemoryProfiling/pull/1) in [SSD-Brandeis/LSMMemoryProfiling](https://github.com/SSD-Brandeis/LSMMemoryProfiling)
-4. 🗣 Commented on [#1221](https://github.com/Shopify/flash-list/issues/1221#issuecomment-2197832878) in [Shopify/flash-list](https://github.com/Shopify/flash-list)
-5. 🗣 Commented on [#29856](https://github.com/expo/expo/issues/29856#issuecomment-2197787917) in [expo/expo](https://github.com/expo/expo)
+1. 🗣 Commented on [#30672](https://github.com/expo/expo/issues/30672#issuecomment-2257499263) in [expo/expo](https://github.com/expo/expo)
+2. ❗ Opened issue [#30672](https://github.com/expo/expo/issues/30672) in [expo/expo](https://github.com/expo/expo)
+3. 🗣 Commented on [#98](https://github.com/callstack/react-native-slider/issues/98#issuecomment-2235195062) in [callstack/react-native-slider](https://github.com/callstack/react-native-slider)
+4. 💪 Opened PR [#1](https://github.com/SSD-Brandeis/LSMMemoryProfiling/pull/1) in [SSD-Brandeis/LSMMemoryProfiling](https://github.com/SSD-Brandeis/LSMMemoryProfiling)
+5. 🗣 Commented on [#1221](https://github.com/Shopify/flash-list/issues/1221#issuecomment-2197832878) in [Shopify/flash-list](https://github.com/Shopify/flash-list)
 <!--END_SECTION:activity-->
 
 </details>
