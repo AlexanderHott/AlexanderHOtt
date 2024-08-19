@@ -22,11 +22,11 @@ My interests lie in **machine learning**, **networking**, **cybersecurity**, and
 <summary>🕜 Recent Activity</summary>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#15379](https://github.com/zed-industries/zed/issues/15379#issuecomment-2263509978) in [zed-industries/zed](https://github.com/zed-industries/zed)
-2. 🗣 Commented on [#30672](https://github.com/expo/expo/issues/30672#issuecomment-2257499263) in [expo/expo](https://github.com/expo/expo)
-3. ❗ Opened issue [#30672](https://github.com/expo/expo/issues/30672) in [expo/expo](https://github.com/expo/expo)
-4. 🗣 Commented on [#98](https://github.com/callstack/react-native-slider/issues/98#issuecomment-2235195062) in [callstack/react-native-slider](https://github.com/callstack/react-native-slider)
-5. 💪 Opened PR [#1](https://github.com/SSD-Brandeis/LSMMemoryProfiling/pull/1) in [SSD-Brandeis/LSMMemoryProfiling](https://github.com/SSD-Brandeis/LSMMemoryProfiling)
+1. 🎉 Merged PR [#9](https://github.com/yashdesh6/bestbet-app/pull/9) in [yashdesh6/bestbet-app](https://github.com/yashdesh6/bestbet-app)
+2. 💪 Opened PR [#9](https://github.com/yashdesh6/bestbet-app/pull/9) in [yashdesh6/bestbet-app](https://github.com/yashdesh6/bestbet-app)
+3. 🗣 Commented on [#15379](https://github.com/zed-industries/zed/issues/15379#issuecomment-2263509978) in [zed-industries/zed](https://github.com/zed-industries/zed)
+4. 🗣 Commented on [#30672](https://github.com/expo/expo/issues/30672#issuecomment-2257499263) in [expo/expo](https://github.com/expo/expo)
+5. ❗ Opened issue [#30672](https://github.com/expo/expo/issues/30672) in [expo/expo](https://github.com/expo/expo)
 <!--END_SECTION:activity-->
 
 </details>
