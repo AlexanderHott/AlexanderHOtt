@@ -22,11 +22,11 @@ My interests lie in **machine learning**, **networking**, **cybersecurity**, and
 <summary>🕜 Recent Activity</summary>
 
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#4](https://github.com/AlexanderHott/bdi-check-in-form/issues/4) in [AlexanderHott/bdi-check-in-form](https://github.com/AlexanderHott/bdi-check-in-form)
-2. ❗ Opened issue [#3](https://github.com/AlexanderHott/bdi-check-in-form/issues/3) in [AlexanderHott/bdi-check-in-form](https://github.com/AlexanderHott/bdi-check-in-form)
-3. ❗ Opened issue [#2](https://github.com/AlexanderHott/bdi-check-in-form/issues/2) in [AlexanderHott/bdi-check-in-form](https://github.com/AlexanderHott/bdi-check-in-form)
-4. 🗣 Commented on [#69485](https://github.com/golang/go/issues/69485#issuecomment-2353548264) in [golang/go](https://github.com/golang/go)
-5. ❗ Opened issue [#69485](https://github.com/golang/go/issues/69485) in [golang/go](https://github.com/golang/go)
+1. 🗣 Commented on [#3](https://github.com/AlexanderHott/bdi-check-in-form/issues/3#issuecomment-2356804959) in [AlexanderHott/bdi-check-in-form](https://github.com/AlexanderHott/bdi-check-in-form)
+2. 🔒 Closed issue [#3](https://github.com/AlexanderHott/bdi-check-in-form/issues/3) in [AlexanderHott/bdi-check-in-form](https://github.com/AlexanderHott/bdi-check-in-form)
+3. 🗣 Commented on [#2](https://github.com/AlexanderHott/bdi-check-in-form/issues/2#issuecomment-2356760471) in [AlexanderHott/bdi-check-in-form](https://github.com/AlexanderHott/bdi-check-in-form)
+4. 🔒 Closed issue [#2](https://github.com/AlexanderHott/bdi-check-in-form/issues/2) in [AlexanderHott/bdi-check-in-form](https://github.com/AlexanderHott/bdi-check-in-form)
+5. 🗣 Commented on [#4](https://github.com/AlexanderHott/bdi-check-in-form/issues/4#issuecomment-2356759826) in [AlexanderHott/bdi-check-in-form](https://github.com/AlexanderHott/bdi-check-in-form)
 <!--END_SECTION:activity-->
 
 </details>
