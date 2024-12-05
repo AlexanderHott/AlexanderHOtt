@@ -22,11 +22,11 @@ My interests lie in **machine learning**, **networking**, **cybersecurity**, and
 <summary>🕜 Recent Activity</summary>
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#2](https://github.com/yachachli/db_update/pull/2) in [yachachli/db_update](https://github.com/yachachli/db_update)
-2. 💪 Opened PR [#1](https://github.com/yachachli/db_update/pull/1) in [yachachli/db_update](https://github.com/yachachli/db_update)
-3. 💪 Opened PR [#2](https://github.com/lucia-auth/example-nextjs-email-password-webauthn/pull/2) in [lucia-auth/example-nextjs-email-password-webauthn](https://github.com/lucia-auth/example-nextjs-email-password-webauthn)
-4. ❗ Opened issue [#1](https://github.com/AlexanderHott/rocksdb-memtable-switching/issues/1) in [AlexanderHott/rocksdb-memtable-switching](https://github.com/AlexanderHott/rocksdb-memtable-switching)
-5. ❗ Opened issue [#13](https://github.com/AlexanderHott/bdi-check-in-form/issues/13) in [AlexanderHott/bdi-check-in-form](https://github.com/AlexanderHott/bdi-check-in-form)
+1. 🎉 Merged PR [#1](https://github.com/0xdeis/0xdeis.com/pull/1) in [0xdeis/0xdeis.com](https://github.com/0xdeis/0xdeis.com)
+2. 💪 Opened PR [#1](https://github.com/0xdeis/0xdeis.com/pull/1) in [0xdeis/0xdeis.com](https://github.com/0xdeis/0xdeis.com)
+3. 💪 Opened PR [#2](https://github.com/yachachli/db_update/pull/2) in [yachachli/db_update](https://github.com/yachachli/db_update)
+4. 💪 Opened PR [#1](https://github.com/yachachli/db_update/pull/1) in [yachachli/db_update](https://github.com/yachachli/db_update)
+5. 💪 Opened PR [#2](https://github.com/lucia-auth/example-nextjs-email-password-webauthn/pull/2) in [lucia-auth/example-nextjs-email-password-webauthn](https://github.com/lucia-auth/example-nextjs-email-password-webauthn)
 <!--END_SECTION:activity-->
 
 </details>
