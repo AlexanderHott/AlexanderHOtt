@@ -22,11 +22,11 @@ My interests lie in **machine learning**, **networking**, **cybersecurity**, and
 <summary>🕜 Recent Activity</summary>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#133](https://github.com/hngngn/shadcn-solid/issues/133#issuecomment-2524810146) in [hngngn/shadcn-solid](https://github.com/hngngn/shadcn-solid)
-2. 🗣 Commented on [#133](https://github.com/hngngn/shadcn-solid/issues/133#issuecomment-2524805694) in [hngngn/shadcn-solid](https://github.com/hngngn/shadcn-solid)
-3. 🗣 Commented on [#133](https://github.com/hngngn/shadcn-solid/issues/133#issuecomment-2524804767) in [hngngn/shadcn-solid](https://github.com/hngngn/shadcn-solid)
-4. ❗ Opened issue [#133](https://github.com/hngngn/shadcn-solid/issues/133) in [hngngn/shadcn-solid](https://github.com/hngngn/shadcn-solid)
-5. ❗ Opened issue [#132](https://github.com/hngngn/shadcn-solid/issues/132) in [hngngn/shadcn-solid](https://github.com/hngngn/shadcn-solid)
+1. 💪 Opened PR [#3](https://github.com/yachachli/db_update/pull/3) in [yachachli/db_update](https://github.com/yachachli/db_update)
+2. 🗣 Commented on [#133](https://github.com/hngngn/shadcn-solid/issues/133#issuecomment-2524810146) in [hngngn/shadcn-solid](https://github.com/hngngn/shadcn-solid)
+3. 🗣 Commented on [#133](https://github.com/hngngn/shadcn-solid/issues/133#issuecomment-2524805694) in [hngngn/shadcn-solid](https://github.com/hngngn/shadcn-solid)
+4. 🗣 Commented on [#133](https://github.com/hngngn/shadcn-solid/issues/133#issuecomment-2524804767) in [hngngn/shadcn-solid](https://github.com/hngngn/shadcn-solid)
+5. ❗ Opened issue [#133](https://github.com/hngngn/shadcn-solid/issues/133) in [hngngn/shadcn-solid](https://github.com/hngngn/shadcn-solid)
 <!--END_SECTION:activity-->
 
 </details>
