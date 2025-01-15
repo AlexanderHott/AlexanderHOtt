@@ -22,11 +22,11 @@ My interests lie in **machine learning**, **networking**, **cybersecurity**, and
 <summary>🕜 Recent Activity</summary>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#8](https://github.com/yachachli/db_update/pull/8) in [yachachli/db_update](https://github.com/yachachli/db_update)
-2. 🎉 Merged PR [#7](https://github.com/yachachli/db_update/pull/7) in [yachachli/db_update](https://github.com/yachachli/db_update)
-3. 🎉 Merged PR [#6](https://github.com/yachachli/db_update/pull/6) in [yachachli/db_update](https://github.com/yachachli/db_update)
-4. 🎉 Merged PR [#4](https://github.com/yachachli/db_update/pull/4) in [yachachli/db_update](https://github.com/yachachli/db_update)
-5. 💪 Opened PR [#4](https://github.com/yachachli/db_update/pull/4) in [yachachli/db_update](https://github.com/yachachli/db_update)
+1. 🎉 Merged PR [#11](https://github.com/AlexanderHott/pingpong/pull/11) in [AlexanderHott/pingpong](https://github.com/AlexanderHott/pingpong)
+2. 🗣 Commented on [#11](https://github.com/AlexanderHott/pingpong/pull/11#issuecomment-2588352106) in [AlexanderHott/pingpong](https://github.com/AlexanderHott/pingpong)
+3. 🗣 Commented on [#1](https://github.com/AlexanderHott/pingpong/pull/1#issuecomment-2588326708) in [AlexanderHott/pingpong](https://github.com/AlexanderHott/pingpong)
+4. 🗣 Commented on [#1](https://github.com/AlexanderHott/pingpong/pull/1#issuecomment-2588325855) in [AlexanderHott/pingpong](https://github.com/AlexanderHott/pingpong)
+5. 🎉 Merged PR [#8](https://github.com/yachachli/db_update/pull/8) in [yachachli/db_update](https://github.com/yachachli/db_update)
 <!--END_SECTION:activity-->
 
 </details>
