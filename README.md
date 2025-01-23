@@ -22,11 +22,11 @@ My interests lie in **machine learning**, **networking**, **cybersecurity**, and
 <summary>🕜 Recent Activity</summary>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#11](https://github.com/AlexanderHott/pingpong/pull/11) in [AlexanderHott/pingpong](https://github.com/AlexanderHott/pingpong)
-2. 🗣 Commented on [#11](https://github.com/AlexanderHott/pingpong/pull/11#issuecomment-2588352106) in [AlexanderHott/pingpong](https://github.com/AlexanderHott/pingpong)
-3. 🗣 Commented on [#1](https://github.com/AlexanderHott/pingpong/pull/1#issuecomment-2588326708) in [AlexanderHott/pingpong](https://github.com/AlexanderHott/pingpong)
-4. 🗣 Commented on [#1](https://github.com/AlexanderHott/pingpong/pull/1#issuecomment-2588325855) in [AlexanderHott/pingpong](https://github.com/AlexanderHott/pingpong)
-5. 🎉 Merged PR [#8](https://github.com/yachachli/db_update/pull/8) in [yachachli/db_update](https://github.com/yachachli/db_update)
+1. 🗣 Commented on [#3](https://github.com/yachachli/daily_task/pull/3#issuecomment-2605816393) in [yachachli/daily_task](https://github.com/yachachli/daily_task)
+2. 🗣 Commented on [#2](https://github.com/yachachli/daily_task/pull/2#issuecomment-2605813435) in [yachachli/daily_task](https://github.com/yachachli/daily_task)
+3. ❌ Closed PR [#2](https://github.com/yachachli/daily_task/pull/2) in [yachachli/daily_task](https://github.com/yachachli/daily_task)
+4. 🗣 Commented on [#1](https://github.com/yachachli/daily_task/pull/1#issuecomment-2605807348) in [yachachli/daily_task](https://github.com/yachachli/daily_task)
+5. ❌ Closed PR [#1](https://github.com/yachachli/daily_task/pull/1) in [yachachli/daily_task](https://github.com/yachachli/daily_task)
 <!--END_SECTION:activity-->
 
 </details>
