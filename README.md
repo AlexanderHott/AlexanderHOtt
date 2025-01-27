@@ -22,11 +22,11 @@ My interests lie in **machine learning**, **networking**, **cybersecurity**, and
 <summary>🕜 Recent Activity</summary>
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#9](https://github.com/yachachli/db_update/pull/9) in [yachachli/db_update](https://github.com/yachachli/db_update)
-2. 🗣 Commented on [#5](https://github.com/yachachli/daily_task/pull/5#issuecomment-2611425969) in [yachachli/daily_task](https://github.com/yachachli/daily_task)
-3. 🗣 Commented on [#3](https://github.com/yachachli/daily_task/pull/3#issuecomment-2605816393) in [yachachli/daily_task](https://github.com/yachachli/daily_task)
-4. 🗣 Commented on [#2](https://github.com/yachachli/daily_task/pull/2#issuecomment-2605813435) in [yachachli/daily_task](https://github.com/yachachli/daily_task)
-5. ❌ Closed PR [#2](https://github.com/yachachli/daily_task/pull/2) in [yachachli/daily_task](https://github.com/yachachli/daily_task)
+1. 🗣 Commented on [#545](https://github.com/kobaltedev/kobalte/issues/545#issuecomment-2614152335) in [kobaltedev/kobalte](https://github.com/kobaltedev/kobalte)
+2. ❗ Opened issue [#545](https://github.com/kobaltedev/kobalte/issues/545) in [kobaltedev/kobalte](https://github.com/kobaltedev/kobalte)
+3. 💪 Opened PR [#9](https://github.com/yachachli/db_update/pull/9) in [yachachli/db_update](https://github.com/yachachli/db_update)
+4. 🗣 Commented on [#5](https://github.com/yachachli/daily_task/pull/5#issuecomment-2611425969) in [yachachli/daily_task](https://github.com/yachachli/daily_task)
+5. 🗣 Commented on [#3](https://github.com/yachachli/daily_task/pull/3#issuecomment-2605816393) in [yachachli/daily_task](https://github.com/yachachli/daily_task)
 <!--END_SECTION:activity-->
 
 </details>
