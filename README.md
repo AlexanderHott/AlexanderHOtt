@@ -22,11 +22,11 @@ My interests lie in **machine learning**, **networking**, **cybersecurity**, and
 <summary>🕜 Recent Activity</summary>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#20](https://github.com/AlexanderHott/pingpong/pull/20) in [AlexanderHott/pingpong](https://github.com/AlexanderHott/pingpong)
-2. 🎉 Merged PR [#5](https://github.com/yachachli/daily_task/pull/5) in [yachachli/daily_task](https://github.com/yachachli/daily_task)
-3. 🎉 Merged PR [#6](https://github.com/yachachli/daily_task/pull/6) in [yachachli/daily_task](https://github.com/yachachli/daily_task)
-4. ❗ Opened issue [#16](https://github.com/AlexanderHott/bdi-check-in-form/issues/16) in [AlexanderHott/bdi-check-in-form](https://github.com/AlexanderHott/bdi-check-in-form)
-5. ❗ Opened issue [#15](https://github.com/AlexanderHott/bdi-check-in-form/issues/15) in [AlexanderHott/bdi-check-in-form](https://github.com/AlexanderHott/bdi-check-in-form)
+1. ❌ Closed PR [#21](https://github.com/AlexanderHott/pingpong/pull/21) in [AlexanderHott/pingpong](https://github.com/AlexanderHott/pingpong)
+2. ❌ Closed PR [#19](https://github.com/AlexanderHott/pingpong/pull/19) in [AlexanderHott/pingpong](https://github.com/AlexanderHott/pingpong)
+3. ❌ Closed PR [#10](https://github.com/AlexanderHott/pingpong/pull/10) in [AlexanderHott/pingpong](https://github.com/AlexanderHott/pingpong)
+4. ❌ Closed PR [#17](https://github.com/AlexanderHott/pingpong/pull/17) in [AlexanderHott/pingpong](https://github.com/AlexanderHott/pingpong)
+5. ❌ Closed PR [#14](https://github.com/AlexanderHott/pingpong/pull/14) in [AlexanderHott/pingpong](https://github.com/AlexanderHott/pingpong)
 <!--END_SECTION:activity-->
 
 </details>
