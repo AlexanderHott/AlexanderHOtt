@@ -22,11 +22,11 @@ My interests lie in **machine learning**, **networking**, **cybersecurity**, and
 <summary>🕜 Recent Activity</summary>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#17](https://github.com/AlexanderHott/bdi-check-in-form/pull/17) in [AlexanderHott/bdi-check-in-form](https://github.com/AlexanderHott/bdi-check-in-form)
-2. 💪 Opened PR [#17](https://github.com/AlexanderHott/bdi-check-in-form/pull/17) in [AlexanderHott/bdi-check-in-form](https://github.com/AlexanderHott/bdi-check-in-form)
-3. 🎉 Merged PR [#7](https://github.com/yachachli/daily_task/pull/7) in [yachachli/daily_task](https://github.com/yachachli/daily_task)
-4. 🎉 Merged PR [#8](https://github.com/yachachli/daily_task/pull/8) in [yachachli/daily_task](https://github.com/yachachli/daily_task)
-5. 🗣 Commented on [#15379](https://github.com/zed-industries/zed/issues/15379#issuecomment-2715427145) in [zed-industries/zed](https://github.com/zed-industries/zed)
+1. 🎉 Merged PR [#2](https://github.com/0xdeis/0xdeis.com/pull/2) in [0xdeis/0xdeis.com](https://github.com/0xdeis/0xdeis.com)
+2. 🎉 Merged PR [#17](https://github.com/AlexanderHott/bdi-check-in-form/pull/17) in [AlexanderHott/bdi-check-in-form](https://github.com/AlexanderHott/bdi-check-in-form)
+3. 💪 Opened PR [#17](https://github.com/AlexanderHott/bdi-check-in-form/pull/17) in [AlexanderHott/bdi-check-in-form](https://github.com/AlexanderHott/bdi-check-in-form)
+4. 🎉 Merged PR [#7](https://github.com/yachachli/daily_task/pull/7) in [yachachli/daily_task](https://github.com/yachachli/daily_task)
+5. 🎉 Merged PR [#8](https://github.com/yachachli/daily_task/pull/8) in [yachachli/daily_task](https://github.com/yachachli/daily_task)
 <!--END_SECTION:activity-->
 
 </details>
