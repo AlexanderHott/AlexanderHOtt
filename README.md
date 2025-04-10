@@ -22,11 +22,11 @@ My interests lie in **machine learning**, **networking**, **cybersecurity**, and
 <summary>🕜 Recent Activity</summary>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#2010](https://github.com/better-auth/better-auth/issues/2010#issuecomment-2761503278) in [better-auth/better-auth](https://github.com/better-auth/better-auth)
-2. 🎉 Merged PR [#2](https://github.com/0xdeis/0xdeis.com/pull/2) in [0xdeis/0xdeis.com](https://github.com/0xdeis/0xdeis.com)
-3. 🎉 Merged PR [#17](https://github.com/AlexanderHott/bdi-check-in-form/pull/17) in [AlexanderHott/bdi-check-in-form](https://github.com/AlexanderHott/bdi-check-in-form)
-4. 💪 Opened PR [#17](https://github.com/AlexanderHott/bdi-check-in-form/pull/17) in [AlexanderHott/bdi-check-in-form](https://github.com/AlexanderHott/bdi-check-in-form)
-5. 🎉 Merged PR [#7](https://github.com/yachachli/daily_task/pull/7) in [yachachli/daily_task](https://github.com/yachachli/daily_task)
+1. ❗ Opened issue [#692](https://github.com/zoontek/react-native-bootsplash/issues/692) in [zoontek/react-native-bootsplash](https://github.com/zoontek/react-native-bootsplash)
+2. 🗣 Commented on [#2010](https://github.com/better-auth/better-auth/issues/2010#issuecomment-2761503278) in [better-auth/better-auth](https://github.com/better-auth/better-auth)
+3. 🎉 Merged PR [#2](https://github.com/0xdeis/0xdeis.com/pull/2) in [0xdeis/0xdeis.com](https://github.com/0xdeis/0xdeis.com)
+4. 🎉 Merged PR [#17](https://github.com/AlexanderHott/bdi-check-in-form/pull/17) in [AlexanderHott/bdi-check-in-form](https://github.com/AlexanderHott/bdi-check-in-form)
+5. 💪 Opened PR [#17](https://github.com/AlexanderHott/bdi-check-in-form/pull/17) in [AlexanderHott/bdi-check-in-form](https://github.com/AlexanderHott/bdi-check-in-form)
 <!--END_SECTION:activity-->
 
 </details>
