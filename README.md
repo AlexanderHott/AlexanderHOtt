@@ -22,11 +22,11 @@ My interests lie in **machine learning**, **networking**, **cybersecurity**, and
 <summary>🕜 Recent Activity</summary>
 
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#76](https://github.com/rayakame/sqlc-gen-better-python/issues/76) in [rayakame/sqlc-gen-better-python](https://github.com/rayakame/sqlc-gen-better-python)
-2. 💪 Opened PR [#70](https://github.com/rayakame/sqlc-gen-better-python/pull/70) in [rayakame/sqlc-gen-better-python](https://github.com/rayakame/sqlc-gen-better-python)
-3. 💪 Opened PR [#66](https://github.com/rayakame/sqlc-gen-better-python/pull/66) in [rayakame/sqlc-gen-better-python](https://github.com/rayakame/sqlc-gen-better-python)
-4. 🎉 Merged PR [#11](https://github.com/yachachli/db_update/pull/11) in [yachachli/db_update](https://github.com/yachachli/db_update)
-5. 🎉 Merged PR [#17](https://github.com/AlexanderHott/bdi-check-in-form/pull/17) in [AlexanderHott/bdi-check-in-form](https://github.com/AlexanderHott/bdi-check-in-form)
+1. ❗ Opened issue [#7237](https://github.com/microsoft/pylance-release/issues/7237) in [microsoft/pylance-release](https://github.com/microsoft/pylance-release)
+2. 🗣 Commented on [#10463](https://github.com/microsoft/pyright/issues/10463#issuecomment-2888744886) in [microsoft/pyright](https://github.com/microsoft/pyright)
+3. ❗ Opened issue [#10463](https://github.com/microsoft/pyright/issues/10463) in [microsoft/pyright](https://github.com/microsoft/pyright)
+4. ❗ Opened issue [#76](https://github.com/rayakame/sqlc-gen-better-python/issues/76) in [rayakame/sqlc-gen-better-python](https://github.com/rayakame/sqlc-gen-better-python)
+5. 💪 Opened PR [#70](https://github.com/rayakame/sqlc-gen-better-python/pull/70) in [rayakame/sqlc-gen-better-python](https://github.com/rayakame/sqlc-gen-better-python)
 <!--END_SECTION:activity-->
 
 </details>
