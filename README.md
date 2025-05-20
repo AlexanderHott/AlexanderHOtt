@@ -22,11 +22,11 @@ My interests lie in **machine learning**, **networking**, **cybersecurity**, and
 <summary>🕜 Recent Activity</summary>
 
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#7237](https://github.com/microsoft/pylance-release/issues/7237) in [microsoft/pylance-release](https://github.com/microsoft/pylance-release)
-2. 🗣 Commented on [#10463](https://github.com/microsoft/pyright/issues/10463#issuecomment-2888744886) in [microsoft/pyright](https://github.com/microsoft/pyright)
-3. ❗ Opened issue [#10463](https://github.com/microsoft/pyright/issues/10463) in [microsoft/pyright](https://github.com/microsoft/pyright)
-4. ❗ Opened issue [#76](https://github.com/rayakame/sqlc-gen-better-python/issues/76) in [rayakame/sqlc-gen-better-python](https://github.com/rayakame/sqlc-gen-better-python)
-5. 💪 Opened PR [#70](https://github.com/rayakame/sqlc-gen-better-python/pull/70) in [rayakame/sqlc-gen-better-python](https://github.com/rayakame/sqlc-gen-better-python)
+1. 🗣 Commented on [#11216](https://github.com/astral-sh/ruff/issues/11216#issuecomment-2891513868) in [astral-sh/ruff](https://github.com/astral-sh/ruff)
+2. ❗ Opened issue [#7237](https://github.com/microsoft/pylance-release/issues/7237) in [microsoft/pylance-release](https://github.com/microsoft/pylance-release)
+3. 🗣 Commented on [#10463](https://github.com/microsoft/pyright/issues/10463#issuecomment-2888744886) in [microsoft/pyright](https://github.com/microsoft/pyright)
+4. ❗ Opened issue [#10463](https://github.com/microsoft/pyright/issues/10463) in [microsoft/pyright](https://github.com/microsoft/pyright)
+5. ❗ Opened issue [#76](https://github.com/rayakame/sqlc-gen-better-python/issues/76) in [rayakame/sqlc-gen-better-python](https://github.com/rayakame/sqlc-gen-better-python)
 <!--END_SECTION:activity-->
 
 </details>
