@@ -22,11 +22,11 @@ My interests lie in **machine learning**, **networking**, **cybersecurity**, and
 <summary>🕜 Recent Activity</summary>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#11216](https://github.com/astral-sh/ruff/issues/11216#issuecomment-2891513868) in [astral-sh/ruff](https://github.com/astral-sh/ruff)
-2. ❗ Opened issue [#7237](https://github.com/microsoft/pylance-release/issues/7237) in [microsoft/pylance-release](https://github.com/microsoft/pylance-release)
-3. 🗣 Commented on [#10463](https://github.com/microsoft/pyright/issues/10463#issuecomment-2888744886) in [microsoft/pyright](https://github.com/microsoft/pyright)
-4. ❗ Opened issue [#10463](https://github.com/microsoft/pyright/issues/10463) in [microsoft/pyright](https://github.com/microsoft/pyright)
-5. ❗ Opened issue [#76](https://github.com/rayakame/sqlc-gen-better-python/issues/76) in [rayakame/sqlc-gen-better-python](https://github.com/rayakame/sqlc-gen-better-python)
+1. 💪 Opened PR [#1](https://github.com/SSD-Brandeis/RocksDB-SSD/pull/1) in [SSD-Brandeis/RocksDB-SSD](https://github.com/SSD-Brandeis/RocksDB-SSD)
+2. 🗣 Commented on [#1](https://github.com/SSD-Brandeis/LSMMemoryProfiling/pull/1#issuecomment-2892988921) in [SSD-Brandeis/LSMMemoryProfiling](https://github.com/SSD-Brandeis/LSMMemoryProfiling)
+3. 💪 Opened PR [#1](https://github.com/SSD-Brandeis/LSMMemoryProfiling/pull/1) in [SSD-Brandeis/LSMMemoryProfiling](https://github.com/SSD-Brandeis/LSMMemoryProfiling)
+4. 🔒 Closed issue [#12](https://github.com/AlexanderHott/emoji-twitter/issues/12) in [AlexanderHott/emoji-twitter](https://github.com/AlexanderHott/emoji-twitter)
+5. 🔒 Closed issue [#8](https://github.com/AlexanderHott/emoji-twitter/issues/8) in [AlexanderHott/emoji-twitter](https://github.com/AlexanderHott/emoji-twitter)
 <!--END_SECTION:activity-->
 
 </details>
