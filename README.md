@@ -22,11 +22,11 @@ My interests lie in **machine learning**, **networking**, **cybersecurity**, and
 <summary>🕜 Recent Activity</summary>
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#1](https://github.com/SSD-Brandeis/RocksDB-SSD/pull/1) in [SSD-Brandeis/RocksDB-SSD](https://github.com/SSD-Brandeis/RocksDB-SSD)
-2. 🗣 Commented on [#1](https://github.com/SSD-Brandeis/LSMMemoryProfiling/pull/1#issuecomment-2892988921) in [SSD-Brandeis/LSMMemoryProfiling](https://github.com/SSD-Brandeis/LSMMemoryProfiling)
-3. 💪 Opened PR [#1](https://github.com/SSD-Brandeis/LSMMemoryProfiling/pull/1) in [SSD-Brandeis/LSMMemoryProfiling](https://github.com/SSD-Brandeis/LSMMemoryProfiling)
-4. 🔒 Closed issue [#12](https://github.com/AlexanderHott/emoji-twitter/issues/12) in [AlexanderHott/emoji-twitter](https://github.com/AlexanderHott/emoji-twitter)
-5. 🔒 Closed issue [#8](https://github.com/AlexanderHott/emoji-twitter/issues/8) in [AlexanderHott/emoji-twitter](https://github.com/AlexanderHott/emoji-twitter)
+1. 🗣 Commented on [#132](https://github.com/hngngn/shadcn-solid/issues/132#issuecomment-2895206956) in [hngngn/shadcn-solid](https://github.com/hngngn/shadcn-solid)
+2. 🔒 Closed issue [#132](https://github.com/hngngn/shadcn-solid/issues/132) in [hngngn/shadcn-solid](https://github.com/hngngn/shadcn-solid)
+3. 🗣 Commented on [#1](https://github.com/SSD-Brandeis/LSMMemoryProfiling/pull/1#issuecomment-2895177089) in [SSD-Brandeis/LSMMemoryProfiling](https://github.com/SSD-Brandeis/LSMMemoryProfiling)
+4. 💪 Opened PR [#1](https://github.com/SSD-Brandeis/RocksDB-SSD/pull/1) in [SSD-Brandeis/RocksDB-SSD](https://github.com/SSD-Brandeis/RocksDB-SSD)
+5. 🗣 Commented on [#1](https://github.com/SSD-Brandeis/LSMMemoryProfiling/pull/1#issuecomment-2892988921) in [SSD-Brandeis/LSMMemoryProfiling](https://github.com/SSD-Brandeis/LSMMemoryProfiling)
 <!--END_SECTION:activity-->
 
 </details>
