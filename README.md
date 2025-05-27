@@ -22,11 +22,11 @@ My interests lie in **machine learning**, **networking**, **cybersecurity**, and
 <summary>🕜 Recent Activity</summary>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#132](https://github.com/hngngn/shadcn-solid/issues/132#issuecomment-2895206956) in [hngngn/shadcn-solid](https://github.com/hngngn/shadcn-solid)
-2. 🔒 Closed issue [#132](https://github.com/hngngn/shadcn-solid/issues/132) in [hngngn/shadcn-solid](https://github.com/hngngn/shadcn-solid)
-3. 🗣 Commented on [#1](https://github.com/SSD-Brandeis/LSMMemoryProfiling/pull/1#issuecomment-2895177089) in [SSD-Brandeis/LSMMemoryProfiling](https://github.com/SSD-Brandeis/LSMMemoryProfiling)
-4. 💪 Opened PR [#1](https://github.com/SSD-Brandeis/RocksDB-SSD/pull/1) in [SSD-Brandeis/RocksDB-SSD](https://github.com/SSD-Brandeis/RocksDB-SSD)
-5. 🗣 Commented on [#1](https://github.com/SSD-Brandeis/LSMMemoryProfiling/pull/1#issuecomment-2892988921) in [SSD-Brandeis/LSMMemoryProfiling](https://github.com/SSD-Brandeis/LSMMemoryProfiling)
+1. 🗣 Commented on [#1640](https://github.com/rust-random/rand/issues/1640#issuecomment-2910470487) in [rust-random/rand](https://github.com/rust-random/rand)
+2. 🔒 Closed issue [#1640](https://github.com/rust-random/rand/issues/1640) in [rust-random/rand](https://github.com/rust-random/rand)
+3. ❗ Opened issue [#1640](https://github.com/rust-random/rand/issues/1640) in [rust-random/rand](https://github.com/rust-random/rand)
+4. 🗣 Commented on [#132](https://github.com/hngngn/shadcn-solid/issues/132#issuecomment-2895206956) in [hngngn/shadcn-solid](https://github.com/hngngn/shadcn-solid)
+5. 🔒 Closed issue [#132](https://github.com/hngngn/shadcn-solid/issues/132) in [hngngn/shadcn-solid](https://github.com/hngngn/shadcn-solid)
 <!--END_SECTION:activity-->
 
 </details>
