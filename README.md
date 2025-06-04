@@ -22,11 +22,11 @@ My interests lie in **machine learning**, **networking**, **cybersecurity**, and
 <summary>🕜 Recent Activity</summary>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#20](https://github.com/yachachli/daily_task/pull/20) in [yachachli/daily_task](https://github.com/yachachli/daily_task)
-2. 🗣 Commented on [#1](https://github.com/AlexanderHott/trycatch/issues/1#issuecomment-2928206857) in [AlexanderHott/trycatch](https://github.com/AlexanderHott/trycatch)
-3. 💪 Opened PR [#21](https://github.com/yachachli/daily_task/pull/21) in [yachachli/daily_task](https://github.com/yachachli/daily_task)
-4. 🎉 Merged PR [#14](https://github.com/yachachli/db_update/pull/14) in [yachachli/db_update](https://github.com/yachachli/db_update)
-5. 🎉 Merged PR [#13](https://github.com/yachachli/db_update/pull/13) in [yachachli/db_update](https://github.com/yachachli/db_update)
+1. 🎉 Merged PR [#22](https://github.com/yachachli/daily_task/pull/22) in [yachachli/daily_task](https://github.com/yachachli/daily_task)
+2. 💪 Opened PR [#22](https://github.com/yachachli/daily_task/pull/22) in [yachachli/daily_task](https://github.com/yachachli/daily_task)
+3. 🎉 Merged PR [#21](https://github.com/yachachli/daily_task/pull/21) in [yachachli/daily_task](https://github.com/yachachli/daily_task)
+4. 🗣 Commented on [#3337](https://github.com/sqlc-dev/sqlc/issues/3337#issuecomment-2933333381) in [sqlc-dev/sqlc](https://github.com/sqlc-dev/sqlc)
+5. 🎉 Merged PR [#20](https://github.com/yachachli/daily_task/pull/20) in [yachachli/daily_task](https://github.com/yachachli/daily_task)
 <!--END_SECTION:activity-->
 
 </details>
