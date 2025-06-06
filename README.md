@@ -18,6 +18,12 @@ learning**, **networking**, **cybersecurity**, and **fullstack development**.
 - 🦀 writing my own language
 - ☕ drinking tea
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AlexanderHOtt/AlexanderHOtt/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/AlexanderHOtt/AlexanderHOtt/output/github-contribution-grid-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/AlexanderHOtt/AlexanderHOtt/output/github-contribution-grid-snake.svg" />
+</picture>
+
 <!-- - 📙 Check out my resume. -->
 
 <!-- ## ✒️ recent posts -->
