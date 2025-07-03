@@ -13,7 +13,7 @@ learning**, **networking**, **cybersecurity**, and **fullstack development**.
 
 ## ⚡️ I'm currently
 
-- 🖊️ Leading the Cyber Security club at my university
+- 🖊️ Leading a Programming club at my university
 - 👨‍💻 hacking into the mainframe
 - 🦀 writing my own language
 - ☕ drinking tea
